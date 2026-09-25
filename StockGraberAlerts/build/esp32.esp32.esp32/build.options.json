@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32:PSRAM=disabled,FlashSize=4M,PartitionScheme=min_spiffs",
+  "hardwareFolders": "/Users/eddy/Library/Arduino15/packages/esp32/hardware/esp32/3.3.10,/Users/eddy/Library/Arduino15/packages/esp32/hardware/esp32/3.3.10",
+  "otherLibrariesFolders": "/Users/eddy/Documents/Arduino/libraries",
+  "sketchLocation": "/Users/eddy/Desktop/Programming/stockgraber-arduino-ESP32-DEV/StockGraberAlerts"
+}
